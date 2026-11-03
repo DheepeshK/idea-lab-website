@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "tm-1",
+    "name": "Dr. R. Parameshwaran",
+    "role": "Chief Mentor, AICTE-IDEA Lab@KEC",
+    "group": "Chief Mentor",
+    "focusArea": "",
+    "photoUrl": "/images/team/parameshwaran.webp",
+    "designation": "Principal, Kongu Engineering College",
+    "order": 1,
+    "email": "principal@kongu.ac.in",
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "bio": ""
+  },
+  {
+    "_id": "tm-2",
+    "name": "Dr.S.Praveen Kumar",
+    "role": "Coordinator, AICTE-IDEA Lab@KEC",
+    "group": "Coordinator",
+    "focusArea": "",
+    "photoUrl": "/images/team/praveenkumar.webp",
+    "designation": "Associate Professor, Dept. of Mechatronics Engineering",
+    "order": 2,
+    "email": "praveenkumar@kongu.edu",
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "bio": ""
+  },
+  {
+    "_id": "tm-3",
+    "name": "Dr.R.Rajkumar",
+    "role": "Co-ordinator, AICTE-IDEA Lab@KEC",
+    "group": "Co-ordinator",
+    "focusArea": "",
+    "photoUrl": "/images/team/rajkumar.webp",
+    "designation": "Associate Professor, Dept. of EIE",
+    "order": 3,
+    "email": "rajkumarr.eie@kongu.edu",
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "bio": ""
+  },
+  {
+    "_id": "tm-4",
+    "name": "Mr.T.Prabhu",
+    "role": "Tech Guru",
+    "group": "Implementation team: Tech gurus",
+    "focusArea": "",
+    "photoUrl": "/uploads/b2177ad7-69b4-4259-b6dc-4a6ecd51cc53-techguru1-Photoroom-DSZLMbyK.jpg",
+    "designation": "Assistant Professor, Dept. of EEE",
+    "order": 4,
+    "email": "prabhu.eee@kongu.ac.in",
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "bio": ""
+  },
+  {
+    "_id": "tm-5",
+    "name": "Mr.R.P.Karthik",
+    "role": "Tech Guru",
+    "group": "Implementation team: Tech gurus",
+    "focusArea": "",
+    "photoUrl": "/uploads/4d1e79ba-8d53-4f51-8d9e-c5b9f8a1e203-techguru2modified-Photoroom-DrDYRrnF.jpg",
+    "designation": "Assistant Professor, Dept. of ECE",
+    "order": 5,
+    "email": "rpkarthik.ece@kongu.ac.in",
+    "socials": {
+      "linkedin": "https://linkedin.com",
+      "github": "",
+      "twitter": ""
+    },
+    "bio": ""
+  },
+  {
+    "_id": "tm-6",
+    "name": "Mr.P.Gowsikraja",
+    "role": "Tech Guru",
+    "group": "Implementation team: Tech gurus",
+    "focusArea": "",
+    "photoUrl": "/uploads/d3ab7f31-0a14-4c56-b538-7b809cfb915e-techguru2-Photoroom-CEuM3JMk.jpg",
+    "designation": "Assistant Professor,Dept. of CSE",
+    "order": 6,
+    "email": "gowsikrajapcse@gmail.com",
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "bio": ""
+  },
+  {
+    "_id": "tm-7",
+    "name": "Mr.R.Kamalakannan",
+    "role": "Tech Guru",
+    "group": "Implementation team: Tech gurus",
+    "focusArea": "",
+    "photoUrl": "/images/team/kamalakannan.webp",
+    "designation": "Assistant Professor,Dept. of Mechanical Engineering",
+    "order": 7,
+    "email": "kamalakannan.mech@kongu.ac.in",
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "bio": ""
+  },
+  {
+    "name": "Dheepesh K",
+    "role": "Chairman",
+    "group": "Student Team",
+    "focusArea": "",
+    "photoUrl": "",
+    "designation": "II - Year, Department of Mechatronics Engineering",
+    "bio": "",
+    "email": "dheepeshk.25mts@kongu.edu",
+    "order": 8,
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "_id": "mrhunmg8"
+  },
+  {
+    "name": "Prithisha P S",
+    "role": "Co-Chairman",
+    "group": "Student Team",
+    "focusArea": "",
+    "photoUrl": "",
+    "designation": "II - Year, Department of Computer Science & Design",
+    "bio": "",
+    "email": "prithishaps.25csd@kongu.edu",
+    "order": 9,
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "_id": "mrhuq4u2"
+  },
+  {
+    "name": "Eniya A",
+    "role": "Treasurer",
+    "group": "Student Team",
+    "focusArea": "",
+    "photoUrl": "",
+    "designation": "II - Year, Department of Electronics & Communication Engineering",
+    "bio": "",
+    "email": "eniyaa.25ece@kongu.edu",
+    "order": 10,
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "_id": "mrh_eniya"
+  },
+  {
+    "name": "Ranjani",
+    "role": "Joint Treasurer",
+    "group": "Student Team",
+    "focusArea": "",
+    "photoUrl": "",
+    "designation": "II - Year, Department of Computer Science & Engineering",
+    "bio": "",
+    "email": "ranjani.25cse@kongu.edu",
+    "order": 11,
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "_id": "mrh_ranjani"
+  },
+  {
+    "name": "Atitya Ram S",
+    "role": "Co-ordinator",
+    "group": "Student Team",
+    "focusArea": "",
+    "photoUrl": "",
+    "designation": "III - Year, Department of Computer Science & Engineering",
+    "bio": "",
+    "email": "atityarams.25cse@kongu.edu",
+    "order": 12,
+    "socials": {
+      "linkedin": "",
+      "github": "",
+      "twitter": ""
+    },
+    "_id": "mrh_atitya"
+  }
+]

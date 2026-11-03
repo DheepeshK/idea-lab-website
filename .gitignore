@@ -1,0 +1,26 @@
+node_modules/
+.next/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+
+# Server
+server.log
+
+# Runtime data (contains PII) — seed data stays in tracked data/*.json
+.data/
+
+# Runtime uploads
+public/uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
